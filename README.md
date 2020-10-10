@@ -1,0 +1,2 @@
+# PartitionsinPostgres
+Partitions in PostgreSQL
